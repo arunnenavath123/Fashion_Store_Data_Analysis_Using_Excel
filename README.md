@@ -10,20 +10,20 @@ Fashion Store wants to create an annual sales report for 2023. So that, this sto
 
 ## Key Questions of the Dashboard :
 ```
-- Which month got the highest sales and orders?
+Which month got the highest sales and orders?
 
-- Who purchased more—men or women in 2023?
+Who purchased more—men or women in 2023?
 
-- What are different order status in 2023?
+What are different order status in 2023?
 
-- List top 10 states contributing to the sales.
+List top 10 states contributing to the sales.
 
-- Relation between age and gender based on number of orders.
+Relation between age and gender based on number of orders.
 
-- Which channel is contributing to maximum sales?
+Which channel is contributing to maximum sales?
 
-- Highest selling category?'''
-
+Highest selling category?
+```
 ## Sample Insights
 
 - Women are more likely to buy compared to men (~65%)
